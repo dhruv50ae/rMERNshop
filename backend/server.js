@@ -14,6 +14,7 @@ const PORT = process.env.PORT || 5000;
 app.get("/", (req, res) => {
   res.send("API is running...");
 });
+
 app.get("/api/products", (req, res) => {
   res.json(products);
 });
