@@ -1,6 +1,5 @@
 const products = [
   {
-    _id: "1",
     name: "Adidas",
     image: "/images/shoe0.jpg",
     description: "A description of an Adidas Shoe",
@@ -12,7 +11,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "2",
     name: "Spongebob Heelys",
     image: "/images/shoe1.jpg",
     description: "A description of a pair of Heelys",
@@ -24,7 +22,6 @@ const products = [
     numReviews: 8,
   },
   {
-    _id: "3",
     name: "Black Heelys",
     image: "/images/shoe2.jpg",
     description: "A description of a pair of Heelys1",
@@ -36,7 +33,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "4",
     name: "Black and White Heelys",
     image: "/images/shoe3.jpg",
     description: "A description of a pair of Heelys2",
@@ -48,7 +44,6 @@ const products = [
     numReviews: 12,
   },
   {
-    _id: "5",
     name: "Patrick Heelys",
     image: "/images/shoe4.jpg",
     description: "A description of a pair of Heelys3",
@@ -60,7 +55,6 @@ const products = [
     numReviews: 10,
   },
   {
-    _id: "6",
     name: "Cool Heelys",
     image: "/images/shoe5.jpg",
     description: "A description of a pair of Heelys4",
