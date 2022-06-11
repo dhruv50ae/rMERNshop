@@ -4,7 +4,7 @@ MERN Shop for an eCommerce application
 
 ## Images
 
-WIP
+<img src = 'https://cdn.discordapp.com/attachments/229247596571525120/985220166612824084/unknown.png' />
 
 ## Description
 
